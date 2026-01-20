@@ -55,3 +55,15 @@ Data Modeling (Star Schema)
 DAX (Data Analysis Expressions)
 
 Excel / CSV (Data Source)
+<h1>HOME PAGE</h1>
+<img width="1184" height="649" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/a94e664b-64e9-4019-9144-569fb65e091b" />
+
+<h1>Patient Page</h1>
+<img width="1185" height="768" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/8e13e06f-907d-4743-a8f9-0215ff21bf67" />
+
+<h1>Insurance Page</h1>
+<img width="1181" height="752" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/6fbe7918-d66d-464c-aae4-bbd22c3bcc41" />
+
+
+
+
