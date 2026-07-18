@@ -54,6 +54,13 @@ Data Modeling (Star Schema)
 
 DAX (Data Analysis Expressions)
 
+<h1>👨‍💻 Author
+Adarsh Nishad</h1>
+
+GitHub: (https://github.com/adarshnishad534)
+
+LinkedIn:www.linkedin.com/in/adarsh-nishad-474222366
+
 Excel / CSV (Data Source)
 <h1>HOME PAGE</h1>
 <img width="1184" height="649" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/a94e664b-64e9-4019-9144-569fb65e091b" />
